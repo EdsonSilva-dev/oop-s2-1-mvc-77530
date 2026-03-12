@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Library.Domain;
 using Library.MVC.Data;
 
-namespace Library.MVC.Controllers.InvoiceDemo
+namespace Library.MVC.Controllers
 {
     public class InvoicesController : Controller
     {
